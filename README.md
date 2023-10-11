@@ -6,6 +6,8 @@ AI-assisted development for the Godot engine.
 
 Compatible with `4.x` and `3.x`.
 
+**Note: This does not use GitHub Copilot**
+
 ### What does this do?
 
 Godot Copilot uses OpenAI APIs (other models/providers may be supported in the future) to retrieve AI-generated code completions.
